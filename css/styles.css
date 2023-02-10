@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
 
 * {
     margin: 0;
@@ -7,9 +7,23 @@
 }
 
 body {
+    font-family: 'Lora', serif;
     font-weight: 300;
     color: black;
 }
 
-/* Logo and Headings */
+/* Logo and heading */
+
+h1, h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #9a9a9a;
+}
+
+#logo {
+    float: right;
+    font-size: 250%;
+    margin-right: 25px;
+}
 
