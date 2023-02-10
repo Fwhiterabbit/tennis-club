@@ -23,7 +23,32 @@ h1, h2 {
 
 #logo {
     float: right;
-    font-size: 250%;
+    font-size: 300%;
     margin-right: 25px;
 }
 
+/* Nagivation */
+
+#menu {
+    font-size: 100%;
+    letter-spacing: 3px;
+}
+
+#menu, #logo {
+    line-height: 50px;
+}
+
+#menu li {
+    float: left;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #9a9a9a;
+}
