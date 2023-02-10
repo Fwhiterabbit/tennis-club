@@ -8,7 +8,7 @@
 
 body {
     font-family: 'Lora', serif;
-    font-weight: 300;
+    font-weight: 500;
     color: black;
 }
 
@@ -59,7 +59,7 @@ h1, h2 {
 #hero-wrapper {
     height: 600px;
     width: 100%;
-    position: relative;
+    overflow: hidden;
 }
 
 #img-text, #img-text h2 {
@@ -67,12 +67,25 @@ h1, h2 {
 }
 
 #main-img {
-    height: 500px;
+    height: 450px;
     width: 100%;
     background: url('../images/main-img.jpg') no-repeat center center;
+
 
     /* animation zoom effect  */
     animation-name: main-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
 }
+/* zoom for animation main  */
+
+@keyframes main-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
+
+
