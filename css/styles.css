@@ -88,4 +88,21 @@ h1, h2 {
     }
 }
 
+/* Main Page text */
+
+#tennis-club {
+    height: 400px;
+}
+
+#main-heading {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 350%;
+}
+
+#benefits {
+    margin-left: 25px;
+    text-align: center;
+    list-style-type: none;
+}
 
