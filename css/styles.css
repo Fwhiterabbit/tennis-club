@@ -64,13 +64,32 @@ h1, h2 {
 }
 
 #img-text {
-    color: white;
-    float: right;
-    margin-right: 20px;
+    font-size: 130%;
+    font-family: Oswald; sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 300px;
+    height: 150px;
+
+    padding-top: 10px;
+    padding-left: 8px;
+
+    background-color: transparent;
+
+    bottom: 450px;
+    right: 150px;
+
+    position: absolute;
 }
 
+
 #img-text h2 {
-    color: #9a9a9a;
+    color: white;
+}
+
+#img-text h3 {
+    color: white;
 }
 
 #main-img {
@@ -81,7 +100,7 @@ h1, h2 {
 
     /* animation zoom effect  */
     animation-name: main-zoom;
-    animation-duration: 5s;
+    animation-duration: 4s;
     animation-fill-mode: forwards;
 }
 /* zoom for animation main  */
