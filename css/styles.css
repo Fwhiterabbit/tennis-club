@@ -10,6 +10,7 @@ body {
     font-family: 'Lora', serif;
     font-weight: 500;
     color: black;
+    background-color: rgb(0, 167, 255, 0.8)
 }
 
 /* Logo and heading */
@@ -54,16 +55,22 @@ h1, h2 {
     border-bottom: 1px solid #9a9a9a;
 }
 
-/* main image */
+/* main image - to be fixed location */
 
-#hero-wrapper {
+#location-wrapper {
     height: 600px;
     width: 100%;
     overflow: hidden;
 }
 
-#img-text, #img-text h2 {
+#img-text {
     color: white;
+    float: right;
+    margin-right: 20px;
+}
+
+#img-text h2 {
+    color: #9a9a9a;
 }
 
 #main-img {
@@ -88,15 +95,16 @@ h1, h2 {
     }
 }
 
-/* Main Page text */
 
+/* Main Page text */
+/* fix main heading , a little bit to the top */
 #tennis-club {
     height: 400px;
 }
 
 #main-heading {
     text-align: center;
-    margin: 20px 0;
+    margin-top: 20px 0;
     font-size: 350%;
 }
 
@@ -104,5 +112,15 @@ h1, h2 {
     margin-left: 25px;
     text-align: center;
     list-style-type: none;
+    border-style: double;
+    border-width: 5px;
 }
 
+.center-heading {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.b1, .b2, .b3, .b4, .b5, .b6, .b7 {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
