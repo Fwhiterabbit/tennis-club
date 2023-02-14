@@ -1,16 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
 
 * {
+    padding: 0;
     margin: 0;
     border: none;
-    padding: 0;
 }
 
 body {
     font-family: 'Lora', serif;
     font-weight: 500;
     color: black;
-    background-color: rgba(255, 255, 255, 0.8)
+    background-color: rgba(255, 255, 255, 0.8);
+    min-height: 100vh;
 }
 
 /* Logo and heading */
@@ -58,7 +59,6 @@ h1, h2 {
 /* main image - to be fixed location */
 
 #location-wrapper {
-    height: 600px;
     width: 100%;
     overflow: hidden;
 }
@@ -117,9 +117,10 @@ h1, h2 {
 
 /* Main Page text */
 /* fix main heading , a little bit to the top */
-#tennis-club {
-    height: 200px;
-}
+
+/* #tennis-club  <-------- adjust ? add something maybe */
+    
+
 
 #main-heading {
     text-align: center;
@@ -133,14 +134,37 @@ h1, h2 {
     list-style-type: none;
     border-style: double;
     border-width: 5px;
+    margin: 10px;
 }
 
 .center-heading {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
 }
 
 .b1, .b2, .b3, .b4, .b5, .b6, .b7 {
     text-transform: uppercase;
     letter-spacing: 1px;
+}
+
+
+/* footer - socials */
+
+footer {
+    background-color: red;
+}
+
+.socials {
+    text-align: center;
+}
+
+.socials > li {
+    display: inline;
+    margin: auto;
+}
+
+.socials i {
+    font-size: x-large;
+    margin: 2%;
+    padding: 5%;
+    color: #000000;
 }
