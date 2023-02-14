@@ -64,12 +64,12 @@ h1, h2 {
 }
 
 #img-text {
-    font-size: 130%;
+    font-size: 150%;
     font-family: Oswald; sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
 
-    width: 300px;
+    width: 400px;
     height: 150px;
 
     padding-top: 10px;
@@ -118,7 +118,7 @@ h1, h2 {
 /* Main Page text */
 /* fix main heading , a little bit to the top */
 #tennis-club {
-    height: 400px;
+    height: 200px;
 }
 
 #main-heading {
@@ -137,6 +137,7 @@ h1, h2 {
 
 .center-heading {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
 }
 
 .b1, .b2, .b3, .b4, .b5, .b6, .b7 {
