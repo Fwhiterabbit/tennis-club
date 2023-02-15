@@ -168,3 +168,23 @@ footer {
     padding: 5%;
     color: #000000;
 }
+
+/* EVENTS SECTION */
+
+
+
+#photos {
+    clear: both;
+}
+
+#photos > img {
+    height: 550px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+table {
+    text-align: center;
+}
