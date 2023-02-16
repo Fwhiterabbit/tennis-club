@@ -27,10 +27,24 @@
                 </ul>
             </nav>
     </header>
-    <section id="form">
-        <img src="images/form.jpg" alt="tennis ball" class="background-img" no-repeat center center>
-        
+    <section class="form">
+        <form method="POST" action="https://formdump.codeinstitute.net/" class="signup-form">
+            <img src="images/form.jpg" alt="tennis ball" class="background-img" no-repeat center center>
+                <h2>Sign Up Here</h2>
+                <label for="fname">First Name</label>
+                <input id="fname" name="first_name" class="text-input" type="text" required>
+            
+                <label for="lname">Last Name</label>
+                <input id="lname" name="last_name" class="text-input" type="text" required>
+            
+                <label for="email">Email Address</label>
+                <input type="email" id="email" class="text-input" name="email_address" required>
+
+                <input class="join-button" type="submit" class="join-button" value="Let's Roll!">
+
+        </form>
     </section>
+        
 </body>
 
 
