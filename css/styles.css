@@ -245,3 +245,14 @@ table {
     position: absolute;
 }
 
+
+/* media for small screens */
+
+@media screen and (max-width: 800px) { 
+    #photos {
+        column-count: 2;
+    }
+    #time-table {
+        text-align: center;
+    }
+}
