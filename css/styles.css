@@ -187,5 +187,11 @@ table, th, td {
 
 table {
     text-align: center;
-    width: 80%;
+    width: 50%;
+}
+
+/* Form  */
+
+.background-img {
+    width: 100%;
 }
