@@ -7,3 +7,4 @@ A Tennis Club is a recreational organization that provides facilities and servic
 ..* Navigation Bars
 1. Easly readable navigation system with 3 links to 3 different section of the web. Home page , Gallery with time table and Sign Up.
 2. This section will allow user to navigate page on all devices without going back to previous page.
+[logo]: ../tennis-club/images/nav%20bat.png "Nav bar img"
