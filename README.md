@@ -5,7 +5,7 @@ A Tennis Club is a recreational organization that provides facilities and servic
 ## Featuers
 
 ### Navigation Bars
-1. Easly readable navigation system with 3 links to 3 different section of the web. Home page , Gallery with time table and Sign Up.
+1. Easly readable navigation system with 3 links to 3 different section of the web. Home page , Events with time table and Sign Up.
 2. This section will allow user to navigate page on all devices without going back to previous page.
 ![nav bar](https://user-images.githubusercontent.com/122694703/219702031-44df4237-f27f-4582-8029-ed939cc96f4d.png)
 
@@ -24,4 +24,13 @@ A Tennis Club is a recreational organization that provides facilities and servic
 ### Sign Up Form
 1. The form section gives you abilitiy to joint the club.
 2. Sign Up form will update you with upcoming events and location.
-3. ![signup](https://user-images.githubusercontent.com/122694703/220181265-a35fe3d2-a764-4933-b962-3bd69541f2c4.png)
+![signup](https://user-images.githubusercontent.com/122694703/220181265-a35fe3d2-a764-4933-b962-3bd69541f2c4.png)
+
+### Social
+1. Social Links are at the bottom of the page.
+2. Socials are in form of Icons.
+3. They open in separate page.
+![social](https://user-images.githubusercontent.com/122694703/220182665-c9f634ae-70cc-42d9-b2ec-fe20b44d4a81.png)
+
+
+5. 
