@@ -32,5 +32,3 @@ A Tennis Club is a recreational organization that provides facilities and servic
 3. They open in separate page.
 ![social](https://user-images.githubusercontent.com/122694703/220182665-c9f634ae-70cc-42d9-b2ec-fe20b44d4a81.png)
 
-
-5. 
