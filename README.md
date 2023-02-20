@@ -42,5 +42,11 @@ A Tennis Club is a recreational organization that provides facilities and servic
 
 
 ## Validator Testing 
-1.
-  *   fdasdfafa
+1. HTML
+  * No errors with code were found throught official W3C validator
+2. CSS
+  * Few minor bugs were found on line 3 - after deleting line 3 bug was still the same.
+3. Accessibility 
+  * I confirmed the the colors and fonts are easy to read and accessible throught Lighthouse  in devtool.
+![lighthouse](https://user-images.githubusercontent.com/122694703/220185723-90e828da-f150-4575-911d-96da62e2b31c.png)
+
