@@ -32,3 +32,15 @@ A Tennis Club is a recreational organization that provides facilities and servic
 3. They open in separate page.
 ![social](https://user-images.githubusercontent.com/122694703/220182665-c9f634ae-70cc-42d9-b2ec-fe20b44d4a81.png)
 
+## Testing
+1. I tested website in different borowsers Mozilla Firefox , Microsoft Edge , Google Chrome.
+2. I confirmed that website is clear to read and easy to navigate.
+3. I confirmed that Sign Up form works Name, Last Name and Email checks.
+
+## Bugs
+1. "python3 -m http.server" didnt worked , to fix that issue i had to reinstall python and install extension on chrome GitPod.
+
+
+## Validator Testing 
+1.
+  *   fdasdfafa
