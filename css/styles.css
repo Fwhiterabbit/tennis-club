@@ -11,7 +11,6 @@ body {
     font-weight: 500;
     color: black;
     background-color: rgba(255, 255, 255, 0.8);
-    min-height: 100vh;
 }
 
 /* Logo and heading */
@@ -246,13 +245,18 @@ table {
 }
 
 
-/* media for small screens */
+/* media for medium screen*/
 
 @media screen and (max-width: 800px) { 
-    #photos {
-        column-count: 2;
-    }
-    #time-table {
+    #logo {
         text-align: center;
+        font-size: 20px;
+    }
+    #menu {
+        font-size: small;
+    }
+    #menu a {
+        font-size: small;
+        text-align: left;
     }
 }
