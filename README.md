@@ -50,3 +50,6 @@ A Tennis Club is a recreational organization that provides facilities and servic
   * I confirmed the the colors and fonts are easy to read and accessible throught Lighthouse  in devtool.
 ![lighthouse](https://user-images.githubusercontent.com/122694703/220185723-90e828da-f150-4575-911d-96da62e2b31c.png)
 
+### Credits
+1. Images were taken from - [Beautiful Free Images & Pictures](https://unsplash.com/)
+2. The code to make a form was taken from CI Love Running Project.
